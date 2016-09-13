@@ -1,13 +1,8 @@
 # OpenC2 Working Group
 
-The Open Command and Control Forum promotes the global development and adoption of the OpenC2 language and reference material.
-
-This site is used to share documents and provide a way to collaborate electronically.
+**This site is closed to working group contributors only.**
 
 The contents of this site are described as follows:
-- [Meetings](meetings)
-- [Constructs](constructs)
-- [Language Description Document](language-description)
-- [Security Subgroup](security)
-- [Reference Implementations](ref-implementations)
+- [Issues](https://github.com/OpenC2-org/openc2-working-group/issues)
 
+The rest of the information has been moved to the _NEW_ GitHub repository: [OpenC2-Org](https://github.com/OpenC2-org/openc2-org).
